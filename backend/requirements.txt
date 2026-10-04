@@ -1,0 +1,12 @@
+fastapi
+bcrypt<4.1
+numpy
+openpyxl
+pandas
+passlib[bcrypt]
+pymongo
+python-dotenv
+python-jose[cryptography]
+python-multipart
+reportlab
+uvicorn
